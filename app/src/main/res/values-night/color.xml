@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4eb883</color>
+    <color name="secondary">#377858</color>
+    <color name="general_backgroud">#2c3e50</color>
+    <color name="line">#3C5D78</color>
+    <color name="icon">#FFFFFF</color>
+    <color name="nav_icon">#A5A4A4</color>
+    <color name="nav_active_icon">#3D5F7A</color>
+    <color name="nav_bg">#2f495e</color>
+</resources>

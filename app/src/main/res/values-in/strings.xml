@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catatan Keuangan</string>
+    <string name="beranda">Beranda</string>
+    <string name="pinjaman">Pinjaman</string>
+    <string name="mutasi">Mutasi</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="menu_lainnya">Menu lain yang terdapat dalam aplikasi</string>
+    <string name="pilih_tema">Choose theme</string>
+    <string name="default_sistem">Bawaan sistem</string>
+    <string name="terang">Terang</string>
+    <string name="gelap">Gelap</string>
+    <string name="tema">Tema</string>
+    <string name="tampilan">Tampilan</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="pilih_bahasa">Pilih Bahasa</string>
+    <string name="module">Modul</string>
+    <string name="dompet">Dompet</string>
+    <string name="kategori">Kategori</string>
+</resources>

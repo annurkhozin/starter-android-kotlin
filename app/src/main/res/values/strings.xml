@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Financial records</string>
+    <string name="beranda">Home</string>
+    <string name="pinjaman">Loan</string>
+    <string name="mutasi">Mutation</string>
+    <string name="lainnya">Others</string>
+    <string name="menu_lainnya">Another menu contained in the application</string>
+    <string name="pilih_tema">Choose theme</string>
+    <string name="default_sistem">System default</string>
+    <string name="terang">Light</string>
+    <string name="gelap">Dark</string>
+    <string name="tema">Theme</string>
+    <string name="tampilan">Display</string>
+    <string name="bahasa">Language</string>
+    <string name="pilih_bahasa">Choose Language</string>
+    <string name="module">Module</string>
+    <string name="dompet">Wallet</string>
+    <string name="kategori">Category</string>
+
+</resources>
